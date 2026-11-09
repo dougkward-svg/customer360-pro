@@ -1,0 +1,6 @@
+customer_id,customer_name,industry,date_acquired,account_tier,annual_value,address,city,state,postal_code,contact_name,contact_role,contact_email,last_activity
+CUST-001,Northstar Manufacturing,Industrial Equipment,2022-03-14,Strategic,485000,100 Innovation Way,Riverton,OH,44101,Jordan Lee,Operations Director,jordan.lee@example.com,2026-11-02
+CUST-002,BluePeak Energy,Energy Services,2021-08-09,Enterprise,720000,225 Summit Drive,Lakeview,TX,75001,Taylor Brooks,Program Manager,taylor.brooks@example.com,2026-11-05
+CUST-003,Redwood Transit,Transportation,2023-01-23,Growth,310000,48 Transit Plaza,Oakridge,CA,94016,Alex Rivera,Fleet Director,alex.rivera@example.com,2026-10-29
+CUST-004,Silverline Systems,Technology,2020-11-02,Strategic,910000,770 Digital Park,Franklin,PA,15222,Morgan Smith,VP Operations,morgan.smith@example.com,2026-11-06
+CUST-005,Greenfield Components,Manufacturing,2024-05-17,Growth,265000,16 Foundry Lane,Mapleton,IN,46204,Cameron Diaz,Plant Manager,cameron.diaz@example.com,2026-10-31

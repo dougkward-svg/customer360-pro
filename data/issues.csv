@@ -1,0 +1,7 @@
+issue_id,customer_id,title,severity,status,opened_date
+ISS-101,CUST-001,Expedite request,High,In Progress,2026-10-27
+ISS-102,CUST-001,Invoice clarification,Low,Waiting,2026-11-01
+ISS-103,CUST-002,Material approval,Medium,Open,2026-10-30
+ISS-104,CUST-003,Document correction,High,Open,2026-10-25
+ISS-105,CUST-003,Delivery alignment,Critical,Escalated,2026-11-02
+ISS-106,CUST-005,Packaging review,Medium,Open,2026-10-28

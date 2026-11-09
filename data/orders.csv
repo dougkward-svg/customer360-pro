@@ -1,0 +1,51 @@
+order_id,customer_id,order_date,delivery_date,product_family,quantity,unit_price,status,notes
+ORD-1001,CUST-001,2026-01-03,2026-01-20,Services,12,1170,On Hold,Fictional order 1
+ORD-1002,CUST-001,2026-02-03,2026-02-20,Controls,13,1320,Shipped,Fictional order 2
+ORD-1003,CUST-001,2026-03-03,2026-03-20,Assemblies,14,1020,Complete,Fictional order 3
+ORD-1004,CUST-001,2026-04-03,2026-04-20,Services,15,1170,Open,Fictional order 4
+ORD-1005,CUST-001,2026-05-03,2026-05-20,Controls,16,1320,In Production,Fictional order 5
+ORD-1006,CUST-001,2026-06-03,2026-06-20,Assemblies,17,1020,On Hold,Fictional order 6
+ORD-1007,CUST-001,2026-07-03,2026-07-20,Services,18,1170,Shipped,Fictional order 7
+ORD-1008,CUST-001,2026-08-03,2026-08-20,Controls,19,1320,Complete,Fictional order 8
+ORD-1009,CUST-001,2026-09-03,2026-09-20,Assemblies,20,1020,Open,Fictional order 9
+ORD-1010,CUST-001,2026-10-03,2026-10-20,Services,21,1170,In Production,Fictional order 10
+ORD-2001,CUST-002,2026-01-03,2026-01-20,Controls,15,1290,Shipped,Fictional order 1
+ORD-2002,CUST-002,2026-02-03,2026-02-20,Assemblies,16,1440,Complete,Fictional order 2
+ORD-2003,CUST-002,2026-03-03,2026-03-20,Services,17,1140,Open,Fictional order 3
+ORD-2004,CUST-002,2026-04-03,2026-04-20,Controls,18,1290,In Production,Fictional order 4
+ORD-2005,CUST-002,2026-05-03,2026-05-20,Assemblies,19,1440,On Hold,Fictional order 5
+ORD-2006,CUST-002,2026-06-03,2026-06-20,Services,20,1140,Shipped,Fictional order 6
+ORD-2007,CUST-002,2026-07-03,2026-07-20,Controls,21,1290,Complete,Fictional order 7
+ORD-2008,CUST-002,2026-08-03,2026-08-20,Assemblies,22,1440,Open,Fictional order 8
+ORD-2009,CUST-002,2026-09-03,2026-09-20,Services,23,1140,In Production,Fictional order 9
+ORD-2010,CUST-002,2026-10-03,2026-10-20,Controls,24,1290,On Hold,Fictional order 10
+ORD-3001,CUST-003,2026-01-03,2026-01-20,Assemblies,18,1410,Complete,Fictional order 1
+ORD-3002,CUST-003,2026-02-03,2026-02-20,Services,19,1560,Open,Fictional order 2
+ORD-3003,CUST-003,2026-03-03,2026-03-20,Controls,20,1260,In Production,Fictional order 3
+ORD-3004,CUST-003,2026-04-03,2026-04-20,Assemblies,21,1410,On Hold,Fictional order 4
+ORD-3005,CUST-003,2026-05-03,2026-05-20,Services,22,1560,Shipped,Fictional order 5
+ORD-3006,CUST-003,2026-06-03,2026-06-20,Controls,23,1260,Complete,Fictional order 6
+ORD-3007,CUST-003,2026-07-03,2026-07-20,Assemblies,24,1410,Open,Fictional order 7
+ORD-3008,CUST-003,2026-08-03,2026-08-20,Services,25,1560,In Production,Fictional order 8
+ORD-3009,CUST-003,2026-09-03,2026-09-20,Controls,26,1260,On Hold,Fictional order 9
+ORD-3010,CUST-003,2026-10-03,2026-10-20,Assemblies,27,1410,Shipped,Fictional order 10
+ORD-4001,CUST-004,2026-01-03,2026-01-20,Services,21,1530,Open,Fictional order 1
+ORD-4002,CUST-004,2026-02-03,2026-02-20,Controls,22,1680,In Production,Fictional order 2
+ORD-4003,CUST-004,2026-03-03,2026-03-20,Assemblies,23,1380,On Hold,Fictional order 3
+ORD-4004,CUST-004,2026-04-03,2026-04-20,Services,24,1530,Shipped,Fictional order 4
+ORD-4005,CUST-004,2026-05-03,2026-05-20,Controls,25,1680,Complete,Fictional order 5
+ORD-4006,CUST-004,2026-06-03,2026-06-20,Assemblies,26,1380,Open,Fictional order 6
+ORD-4007,CUST-004,2026-07-03,2026-07-20,Services,27,1530,In Production,Fictional order 7
+ORD-4008,CUST-004,2026-08-03,2026-08-20,Controls,28,1680,On Hold,Fictional order 8
+ORD-4009,CUST-004,2026-09-03,2026-09-20,Assemblies,29,1380,Shipped,Fictional order 9
+ORD-4010,CUST-004,2026-10-03,2026-10-20,Services,30,1530,Complete,Fictional order 10
+ORD-5001,CUST-005,2026-01-03,2026-01-20,Controls,24,1650,In Production,Fictional order 1
+ORD-5002,CUST-005,2026-02-03,2026-02-20,Assemblies,25,1800,On Hold,Fictional order 2
+ORD-5003,CUST-005,2026-03-03,2026-03-20,Services,26,1500,Shipped,Fictional order 3
+ORD-5004,CUST-005,2026-04-03,2026-04-20,Controls,27,1650,Complete,Fictional order 4
+ORD-5005,CUST-005,2026-05-03,2026-05-20,Assemblies,28,1800,Open,Fictional order 5
+ORD-5006,CUST-005,2026-06-03,2026-06-20,Services,29,1500,In Production,Fictional order 6
+ORD-5007,CUST-005,2026-07-03,2026-07-20,Controls,30,1650,On Hold,Fictional order 7
+ORD-5008,CUST-005,2026-08-03,2026-08-20,Assemblies,31,1800,Shipped,Fictional order 8
+ORD-5009,CUST-005,2026-09-03,2026-09-20,Services,32,1500,Complete,Fictional order 9
+ORD-5010,CUST-005,2026-10-03,2026-10-20,Controls,33,1650,Open,Fictional order 10
